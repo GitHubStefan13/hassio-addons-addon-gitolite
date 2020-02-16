@@ -82,7 +82,7 @@ only apply to the gitolite daemon.
 
 #### Option `gitolite`: `repositories`
 
-This option group allows you to change to the repositories
+This option group allows you to make changes to the repositories
 
 #### Option `gitolite`: `repositories`: `read`
 
